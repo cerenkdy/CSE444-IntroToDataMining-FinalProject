@@ -1,0 +1,5 @@
+model,top1,top3,top5,mrr
+Centroid + Cosine,0.5822,0.7862,0.8548,0.6888
+KNN (k=25),0.4250,0.6069,0.6753,0.5215
+Naive Bayes,0.4369,0.6117,0.6833,0.5303
+Logistic Regression,0.6388,0.8270,0.8876,0.7369

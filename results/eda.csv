@@ -1,0 +1,9 @@
+metric,value
+articles,23034
+journals,428
+articles_per_journal_min,2
+articles_per_journal_median,59
+articles_per_journal_max,76
+abstract_words_min,13
+abstract_words_median,159
+abstract_words_max,865
